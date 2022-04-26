@@ -1,0 +1,8 @@
+@charset "utf-8";
+ body {
+     background-color: #EDE5DC;
+ }
+ .ops-title {
+    font-size: 30px;
+    color: #567194;
+ }
